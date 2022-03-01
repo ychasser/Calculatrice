@@ -11,7 +11,7 @@ using namespace std;
 
 void Calculatrice::SaisirOperation ( ) 
 {
-	cout << "Donner votre operation : " ;
+	cout << "Donner votre operation :" ;
 	cin >> Op1 >> Operateur >> Op2 ; 
 }
 
